@@ -8,7 +8,7 @@ Funcionalidades:
 Operações de soma, subtração, multiplicação e divisão.
 Interface com botões numéricos e operacionais.
 Exibição clara dos cálculos e resultados em tempo real.
-
+<br>
 
 Tecnologias utilizadas:
 HTML
