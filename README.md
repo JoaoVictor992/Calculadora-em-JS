@@ -14,8 +14,8 @@ Exibição clara dos cálculos e resultados em tempo real.
 
 
 Tecnologias utilizadas:
-HTML
-CSS
+HTML,
+CSS e 
 JavaScript
 
 
