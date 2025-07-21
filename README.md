@@ -27,6 +27,8 @@ git clone https://github.com/JoaoVictor992/Calculadora-em-JS.git
 Abra o arquivo index.html no seu navegador.
 
  Pre-Visualização:
+
+
 <img width="570" height="500" alt="image" src="https://github.com/user-attachments/assets/921a0540-17d1-4f1e-b72d-deebd83c1da9" />
 
 
