@@ -4,11 +4,14 @@ Calculadora em JS
 Descrição:
 Calculadora web criada com JavaScript para realizar operações matemáticas básicas.
 
+
+
 Funcionalidades:
 Operações de soma, subtração, multiplicação e divisão.
 Interface com botões numéricos e operacionais.
 Exibição clara dos cálculos e resultados em tempo real.
-<br>
+
+
 
 Tecnologias utilizadas:
 HTML
@@ -16,8 +19,11 @@ CSS
 JavaScript
 
 
+
 Objetivo:
 Projeto desenvolvido para treinar lógica de programação, operadores matemáticos, eventos e manipulação de DOM.
+
+
 
 Como executar localmente
 Clone o repositório:
